@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1712325159627' stop='1712325175426'>
+    <name>User Test</name>
+    <title>User Test</title>
+    <test-cases>
+        <test-case start='1712325159627' status='passed' stop='1712325163875'>
+            <name>Fail Username and Password</name>
+            <title>Fail Username and Password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1712325163895' status='passed' stop='1712325166127'>
+            <name>Fail @user and Password</name>
+            <title>Fail @user and Password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1712325166149' status='passed' stop='1712325168484'>
+            <name>Fail Password</name>
+            <title>Fail Password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1712325168504' status='passed' stop='1712325170747'>
+            <name>Login Success</name>
+            <title>Login Success</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1712325170769' status='passed' stop='1712325172710'>
+            <name>maxChar</name>
+            <title>maxChar</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1712325172730' status='passed' stop='1712325173936'>
+            <name>minChar</name>
+            <title>minChar</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1712325173952' status='passed' stop='1712325175426'>
+            <name>noneData</name>
+            <title>noneData</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

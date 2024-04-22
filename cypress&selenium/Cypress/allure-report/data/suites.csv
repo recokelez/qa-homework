@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 05 16:35:27 TRT 2024","Fri Apr 05 16:35:32 TRT 2024","4893","","User Test","","User Test","Fail Username and Password","Fail Username and Password",""
+"passed","Fri Apr 05 16:35:32 TRT 2024","Fri Apr 05 16:35:34 TRT 2024","1732","","User Test","","User Test","Fail @user and Password","Fail @user and Password",""
+"passed","Fri Apr 05 16:35:34 TRT 2024","Fri Apr 05 16:35:36 TRT 2024","1937","","User Test","","User Test","Fail Password","Fail Password",""
+"passed","Fri Apr 05 16:35:40 TRT 2024","Fri Apr 05 16:35:42 TRT 2024","1565","","User Test","","User Test","minChar","minChar",""
+"passed","Fri Apr 05 16:35:36 TRT 2024","Fri Apr 05 16:35:38 TRT 2024","2552","","User Test","","User Test","Login Success","Login Success",""
+"passed","Fri Apr 05 16:35:42 TRT 2024","Fri Apr 05 16:35:43 TRT 2024","1425","","User Test","","User Test","noneData","noneData",""
+"passed","Fri Apr 05 16:35:38 TRT 2024","Fri Apr 05 16:35:40 TRT 2024","2045","","User Test","","User Test","maxChar","maxChar",""

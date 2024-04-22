@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "user-tests": "npx cypress run --browser=chrome --headed --spec cypress/e2e/tests/user-tests.cy.js --reporter mocha-allure-reporter",
+    "register-tests": "npx cypress run --browser=chrome --headed --spec cypress/e2e/tests/register-tests.cy.js --reporter mocha-allure-reporter",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "allure:report": "allure generate allure-results --clean -o allure-report && allure open  allure-report"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.2"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.27.0",
+    "allure-cypress": "^2.15.0",
+    "mocha-allure-reporter": "^1.4.0"
+  }
+}
